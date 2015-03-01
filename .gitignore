@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/Test-Deep-Text-*/
+/Test-Deep-Text-*.tar.gz
